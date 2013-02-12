@@ -32,7 +32,7 @@ a :link, a:visited {color:white; font-weight:bold;}
 
 a:hover, a:active {text-decoration:none; color:black} 
 
-#font{font-style:italic; font-weight:bold;}
+.modify{font-style:italic; font-weight:bold;}
 
 #myself{font-size:10pt;text-align:center;}
 
