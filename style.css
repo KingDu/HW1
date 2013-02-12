@@ -16,6 +16,49 @@ ul{list-style-type:none}
 
 .right{text-align:right;}
 
+.p{position:absolute;
+   left:295px;
+   top:500px}
+.img{ 
+		border:5px solid white;
+		padding:20px;
+		margin:10px;
+		
+}
+
+a {text-decoration:none;}
+
+a :link, a:visited {color:white; font-weight:bold;}
+
+a:hover, a:active {text-decoration:none; color:black} 
+
+#font{font-style:italic; font-weight:bold;}
+
+#myself{font-size:10pt;text-align:center;}
+
+#pic2{position:absolute;
+	  top:162px;
+	  left:150px}
+
+#pic3{position:absolute;
+	  top:220px;
+	  right:70px;}
+	  
+#note1{position:absolute;
+	   top:450px;
+	   right:555px;}
+
+#note2{position:absolute;
+	  top:450px;
+	  left:205px}
+	  
+#note3{position:absolute;
+	  top:430px;
+	  right:160px;}
+
+
+
+
 
 
 
